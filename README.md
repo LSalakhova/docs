@@ -8,4 +8,4 @@
 
    Создание 10 тест-кейсов для Регистрации и Авторизации и 10 тест-кейсов для Каталога товаров, покрывающие самые основные проверки из чек-листа.
 
-3. [Отчеты о дефектах из Youtrack]
+3. [Отчеты о дефектах из Youtrack](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova.%20Defect%20reports%20from%20Youtrack.xlsx)
