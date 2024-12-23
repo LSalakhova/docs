@@ -8,7 +8,9 @@
 
    Создание 10 тест-кейсов для Регистрации и Авторизации и 10 тест-кейсов для Каталога товаров, покрывающие самые основные проверки из чек-листа.
 
-3. [Результаты тестового прогона из QASE]()
-4.
-5. [Отчеты о дефектах из Youtrack](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova.%20Defect%20reports%20from%20Youtrack.xlsx)
+3. В ходе работы с тест-кейсами на платформы Qase и созданными ранее чек-листами, были выявлены дефекты и созданы отчеты на платформе Youtrack:
+   
+   * [Результаты тестового прогона из QASE](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova%20Test%20run%20from%20Qase.pdf)
+
+   * [Отчеты о дефектах из Youtrack](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova.%20Defect%20reports%20from%20Youtrack.xlsx)
 
