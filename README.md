@@ -1,16 +1,14 @@
-# Тестовая документация
+# 🗃️ Test documentation
 
-1. [Чек-лист для тестирования регистрации, логина и каталога](https://docs.google.com/spreadsheets/d/1-YO5gSBaxfIakPl1U3Bl-hCXl2MueUJP5IuauvX2_Fo/edit?gid=0#gid=0)
+Here I would like to showcase test documentation I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language demonstrating my fluency in using it.
 
-    Создание чек-листа для тестирования интернет-магазина "Demoshopping.ru" по таким разделам, как Регистрация, Логин и Каталог товаров.
+1. [Checklist](https://docs.google.com/spreadsheets/d/1-YO5gSBaxfIakPl1U3Bl-hCXl2MueUJP5IuauvX2_Fo/edit?gid=0#gid=0) - for testing the webstore by such modules as: "Registration", "Login" and "Product Catalog".
    
-2. [Тест-кейс на основании проверок из чек-листа для регистрации, логина и каталога](https://app.qase.io/project/G9?previewMode=side&suite=67&tab=)
+2. [Test case](https://github.com/LSalakhova/docs/blob/main/Test%20Cases%20for%20Registration,%20Authorization%20and%20Product%20Catalog.pdf) - 10 test cases for "Registration", "Authorization" and "Product Catalog", covering the main functions from the checklist.
 
-   Создание 10 тест-кейсов для Регистрации и Авторизации и 10 тест-кейсов для Каталога товаров, покрывающие самые основные проверки из чек-листа.
-
-3. В ходе работы с тест-кейсами на платформы Qase и созданными ранее чек-листами, были выявлены дефекты и созданы отчеты на платформе Youtrack:
+3. As a result of the work with Test Cases on the QASE platform and previously created Checklists, several bugs were identified and reports were created on the Youtrack platform:
    
-   * [Результаты тестового прогона из QASE](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova%20Test%20run%20from%20Qase.pdf)
+   * [Test run results](https://github.com/LSalakhova/docs/blob/main/Test%20run%20results%20via%20Qase.pdf) via QASE.
 
-   * [Отчеты о дефектах из Youtrack](https://github.com/LSalakhova/docs/blob/main/Liaisan%20Salakhova.%20Defect%20reports%20from%20Youtrack.xlsx)
+   * [Bug reports](https://github.com/LSalakhova/docs/blob/main/Bug%20reports%20via%20Youtrack.xlsx) via Youtrack.
 
