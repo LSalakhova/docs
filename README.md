@@ -1,6 +1,6 @@
 # 🗃️ Test documentation
 
-Here I would like to showcase test documentation I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language demonstrating my fluency in using it.
+Here I would like to showcase test documentation I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language to demonstrate my fluency in using it.
 
 1. [Checklist](https://docs.google.com/spreadsheets/d/1-YO5gSBaxfIakPl1U3Bl-hCXl2MueUJP5IuauvX2_Fo/edit?gid=0#gid=0) - for testing the webstore by such modules as: "Registration", "Login" and "Product Catalog".
    
