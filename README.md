@@ -1,4 +1,4 @@
-# 🗃️ Test documentation
+# 🗃️ Testing documentation
 
 Here I would like to showcase test documentation I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language to demonstrate my fluency in using it.
 
